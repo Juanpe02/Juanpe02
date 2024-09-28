@@ -1,7 +1,7 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)me llamo Juan Pedro
 ==================================================================================================================================
 
-Soy un estudiante de programación apasionado por el desarrollo backend y el desarrollo de aplicaciones multiplataforma. Mi camino comenzó con el diseño web básico. Poco a poco fui investigando otros tipos de desarrollo, lo que despertó un gran interés en las tecnologías backend. Actualmente, estoy aprendiendo Java, MySQL, HTML5, JavaScript Y Python y estoy emocionado por enfrentar nuevos desafíos que involucren tanto el desarrollo frontend como el backend. Comprometido con el aprendizaje continuo y deseoso de construir aplicaciones dinámicas y eficientes que funcionen sin problemas en múltiples plataformas.
+Soy un estudiante de programación apasionado por el desarrollo backend y el desarrollo de aplicaciones multiplataforma. Mi camino comenzó con el diseño web básico. Poco a poco fui investigando otros tipos de desarrollo, lo que despertó un gran interés en las tecnologías backend. Actualmente, estoy aprendiendo Java, MySQL, HTML5, JavaScript y Python y estoy emocionado por enfrentar nuevos desafíos que involucren tanto el desarrollo frontend como el backend. Comprometido con el aprendizaje continuo y deseoso de construir aplicaciones dinámicas y eficientes que funcionen sin problemas en múltiples plataformas.
 
 *   🌍  España
 *   🧠  DAM (En proceso)
